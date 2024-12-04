@@ -1,0 +1,32 @@
+/**/dependency-reduced-pom.xml
+/**/results/
+/**/__pycache__/
+/**/.vscode/
+# Generic backup files
+/**/*~
+/**/*.bak
+/**/*.sav
+/**/.DS_Store
+# Eclipse
+/**/.project
+/**/.settings
+/**/.classpath
+# IntelliJ
+/**/*.iml
+/**/*.iws
+/**/*.ipr
+/**/.idea/
+# NetBeans
+/**/nbproject/private/
+/**/nbbuild/
+/**/dist/
+/**/nbdist/
+/**/nbactions.xml
+/**/nb-configuration.xml
+# Output folders and files
+/**/target/
+/**/build/
+/**/bin/
+# Build and configuration
+/**/.gradle
+/**/gradle.properties
